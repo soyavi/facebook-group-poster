@@ -1,0 +1,10 @@
+{
+    "require": {
+        "facebook/graph-sdk": "^5.7"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    }
+}
